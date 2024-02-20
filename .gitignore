@@ -96,4 +96,5 @@ dkms.conf
 !/lib/SFML/.gitkeep
 !/lib/SFML/README.md
 /dist/
+/imgui.ini
 # End of https://www.toptal.com/developers/gitignore/api/c,c++,zig,visualstudiocode
