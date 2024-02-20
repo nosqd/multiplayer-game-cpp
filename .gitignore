@@ -92,14 +92,8 @@ dkms.conf
 # Ignore all local history of files
 .history
 .ionide
-
-### zig ###
-# Zig programming language
-
-zig-cache/
-zig-out/
-build/
-build-*/
-docgen_tmp/
-
+/lib/SFML/*
+!/lib/SFML/.gitkeep
+!/lib/SFML/README.md
+/dist/
 # End of https://www.toptal.com/developers/gitignore/api/c,c++,zig,visualstudiocode
